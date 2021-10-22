@@ -1,6 +1,6 @@
-In this application the address of the nearest Police Station,Fire station, Hospital will be provided. 
-So, mainly the whole application is be based on the 'Location of the user'. 
-The location of the user will be shared with the emergency services and the emergency contacts by a single click on the screen or by pressing the power button thrice. 
-Then the user will see a pop-up after opening the application or pressing the power button thrice stating "emergency department you are in need" giving them the options like a) Police , b) Fire, c) Medical. 
-There will be Particular button for the particular type of emergency service that the user stands in need.
-The main purpose of this application is to never make a person feel alone in an emergency situation. 
+1.In this application the address of the nearest Police Station,Fire station, Hospital will be provided. 
+2.So, mainly the whole application is be based on the 'Location of the user'. 
+3.The location of the user will be shared with the emergency services and the emergency contacts by a single click on the screen or by pressing the power button thrice. 
+4.Then the user will see a pop-up after opening the application or pressing the power button thrice stating "emergency department you are in need" giving them the options like a) Police , b) Fire, c) Medical. 
+5.There will be Particular button for the particular type of emergency service that the user stands in need.
+6.The main purpose of this application is to never make a person feel alone in an emergency situation. 
